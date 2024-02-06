@@ -1,0 +1,4 @@
+name: AstraApi
+version: '${project.version}'
+main: dev.loveeev.astraapi.Main
+api-version: '1.20'
